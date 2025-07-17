@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://live.xgmb.site/sitemap.xml
